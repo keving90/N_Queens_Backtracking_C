@@ -1,0 +1,22 @@
+The user chose to place a queen at row 0 in column 2.
+
+ 8 Queen solution with first queen in column: 2
+
+*   *   U   *   *   *   *   *   
+
+Q   *   *   *   *   *   *   *   
+
+*   *   *   *   *   *   Q   *   
+
+*   *   *   *   Q   *   *   *   
+
+*   *   *   *   *   *   *   Q   
+
+*   Q   *   *   *   *   *   *   
+
+*   *   *   Q   *   *   *   *   
+
+*   *   *   *   *   Q   *   *   
+
+The user chose to exit the program.
+
